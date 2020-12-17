@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/bigdata-2019
 date: 2019-12-09
 venue: '2019 IEEE International Conference on Big Data'
-citation: '<b>Minh Pham</b>, Craig Knoblock, and Jay Pujara. (2009). &quot;Learning Data Transformations with Minimal User Effort.&quot; <i>2019 IEEE International Conference on Big Data</i>.'
+citation: '<b>Minh Pham</b>, Craig Knoblock, and Jay Pujara. (2019).'
 ---
-[Paper](http://minhptx.github.io/files/bigdata2019.pdf)|[Github](https://github.com/minhptx/ieee-bigdata2019-transformation)
+[[Paper]](http://minhptx.github.io/files/bigdata2019.pdf) | [[Github]](https://github.com/minhptx/ieee-bigdata2019-transformation)
 ## Abstract
 Data collected from heterogeneous sources often
 have inconsistencies in data format and thus require transformation

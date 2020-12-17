@@ -261,7 +261,6 @@ DEPENDENCIES
   github-pages
   hawkins
   jekyll (~> 3.9)
-  jekyll-feed
   jekyll-sitemap
 
 BUNDLED WITH
