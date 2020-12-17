@@ -19,7 +19,7 @@ Academic Services
 
 News
 ----
-- 09/2019: I presented my short paper "Learning Data Transformations with Minimal User Effort" at IEEE BigData 2019.
-- 06/2018 - 08/2018: I joined [Nuance Communications](https://www.nuance.com/index.html) as a research intern to work on applying Probabilistic Soft Logic](https://psl.linqs.org/) to solve entity resolution/linking problems. 
+- 09/2019: I presented my short paper \"Learning Data Transformations with Minimal User Effort\" at IEEE BigData 2019.
+- 06/2018 - 08/2018: I joined [Nuance Communications](https://www.nuance.com/index.html) as a research intern to work on applying [Probabilistic Soft Logic](https://psl.linqs.org/) to solve entity resolution/linking problems. 
 
 
