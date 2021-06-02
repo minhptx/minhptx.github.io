@@ -15,10 +15,12 @@ I received my Bachelor's Degree in [Ho Chi Minh City University of Technology](h
 
 Academic Services
 -----------------
-- Conference Reviewer: ISWC 2016, WWW 2017, KDD 2020, AAAI 2021
+- Conference Reviewer: ISWC 2016, WWW 2017, KDD 2020
+- Program Committee: AAAI 2021
 
 News
 ----
+-- 04/2021: Our paper "SPADE: A Semi-supervised Probabilistic Approach for Detecting Errors in Tables" got accetped to IJCAI 2021.
 - 09/2019: I presented my short paper \"Learning Data Transformations with Minimal User Effort\" at IEEE BigData 2019.
 - 06/2018 - 08/2018: I joined [Nuance Communications](https://www.nuance.com/index.html) as a research intern to work on applying [Probabilistic Soft Logic](https://psl.linqs.org/) to solve entity resolution/linking problems. 
 
