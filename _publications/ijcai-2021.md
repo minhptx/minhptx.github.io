@@ -2,7 +2,7 @@
 title: "SPADE: A Semi-supervised Probabilistic Approach for Detecting Errors in Tables"
 collection: publications
 permalink: /publication/ijcai-2021
-date: 2021-19-08
+date: 2021-08-19
 venue: '30th International Joint Conference on Artificial Intelligence (IJCAI 2021)'
 citation: '<b>Minh Pham</b>, Craig A. Knoblock, Muhao Chen, Binh Vu, and Jay Pujara. (2021).'
 ---
